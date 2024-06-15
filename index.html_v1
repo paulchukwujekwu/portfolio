@@ -1,0 +1,110 @@
+echo '<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paul Chukwujekwu - Professional Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .bio {
+            background: white;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .section {
+            margin-top: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #eee;
+            margin: 5px 0;
+            padding: 10px;
+        }
+        .contact-info {
+            background: white;
+            padding: 20px;
+            margin-top: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Paul Chukwujekwu</h1>
+        <p>Team Lead Database Administration at 9mobile Telecommunications Ltd.</p>
+    </header>
+    <div class="container">
+        <div class="bio">
+            <h2>About Me</h2>
+            <p>
+                Paul Chukwujekwu is currently the team lead Database Administration at 9mobile Telecommunications Ltd. Previously a senior Managed Service O&M Engineer at Huawei Technologies Co., Ltd, Nigeria, he has over eighteen (18) years of experience in Information Technology as an Oracle DBA. He is a fully qualified Oracle Professional with multiple certifications and extensive cloud experience.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>Key Interests and Hobbies</h2>
+            <ul>
+                <li>Resolving critical performance issues</li>
+                <li>Database architecture and design</li>
+                <li>Cloud technologies</li>
+                <li>Performance and tuning</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Projects and Achievements</h2>
+            <p>
+                Paul has handled various projects involving installations, deployments, patching, upgrades, migrations, and database consolidation. He has a deep understanding of compliance with core company values and serves as a core backbone for database business operations. His notable awards include the Future Star Award and Eagles Award from Huawei Technologies Co., Ltd.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>Academic Qualifications</h2>
+            <ul>
+                <li>LLM Laws - University of South Wales, United Kingdom (09/2019 – 07/2023)</li>
+                <li>BSc. Computer Science/Statistics - University of Nigeria, Nsukka (09/2007 – 02/2012)</li>
+                <li>HND Business Administration and Management (Upper Credit) - Institute of Management and Technology, Enugu (09/1997 – 08/2002)</li>
+                <li>Senior Secondary Certificate Examination (SSCE) - Nnewi High School, Nnewi (01/1991 – 06/1996)</li>
+                <li>First School Leaving Certificate - Abubor Central School, Nnewi (01/1985 – 11/1990)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Contact Information</h2>
+            <div class="contact-info">
+                <p>Email: paulchukwu2001@gmail.com, paulchukwu2001@yahoo.com</p>
+                <p>Phone: +234 803 425 6403, +234 809 944 4915</p>
+                <p>
+                    <a href="https://www.linkedin.com/in/paulchukwujekwu/">LinkedIn</a> |
+                    <a href="https://twitter.com/PaulChukwujekwu">Twitter</a> |
+                    <a href="https://github.com/paulchukwujekwu">GitHub</a>
+                </p>
+                <!--p>Permanent Address: 17 Alice Tinubu Street, Orile Iganmu, Lagos.</p-->
+            </div>
+        </div>
+    </div>
+</body>
+</html>' > index.html
+
